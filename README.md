@@ -1,4 +1,4 @@
-# E-mailverificatie API
+# E-mailverificatie API (PHP)
 Een eenvoudige API voor het verifiëren van e-mailadressen en het controleren van geldige MX-records van domeinen.
 
 **Let op de API-sleutel in de code; er is een limiet, dus het kan zijn dat deze niet altijd werkt! Wil je deze API echt gebruiken? Stuur me dan een bericht en je ontvangt een andere API-sleutel!**
